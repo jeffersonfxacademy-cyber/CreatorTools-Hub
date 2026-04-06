@@ -1,0 +1,5 @@
+{
+  "name": "CreatorTools Hub",
+  "description": "AI-powered tools for content creators including TikTok hashtags, story hooks, and YouTube descriptions.",
+  "requestFramePermissions": ["microphone"]
+}
